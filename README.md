@@ -1,2 +1,2 @@
 # RepositoryResources
-Shares repository resources
+Shared repository resources
