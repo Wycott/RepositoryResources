@@ -2,6 +2,8 @@ The type of this repository is:
 
 > UNCLASSIFIED
 
+More details about repository types can be found here: https://github.com/Wycott/RepositoryResources/blob/main/REPOTYPE.md
+
 # Usage
 
 Add one of these files for all active solutions or projects in GitHub. 
