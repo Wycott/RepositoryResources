@@ -4,7 +4,7 @@ The type of this repository is:
 
 # Usage
 
-Add one of these files wherever there is a solution or project that has been added to GitHub. 
+Add one of these files for all active solutions or projects in GitHub. 
 
 # The Repository Types
 
