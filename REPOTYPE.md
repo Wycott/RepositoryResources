@@ -62,7 +62,4 @@ A tool to do something.
 The default type when added to a new project.
 
 ---
-
-Created : 28 June 2022
-
-Updated : 28 June 2022
+_Last updated: 28 June 2022_
